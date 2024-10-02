@@ -15,9 +15,8 @@ In this project, we:
 - **Dynamic Traffic Light Control**: Changes traffic light timings based on current traffic to reduce queues.
 - **Performance Monitoring**: Tracks and displays average waiting times for both NS and EW traffic.
 
-Example Outputs
-North-South Queue Length at Intersections and
-East-West Queue Length at Intersections
+## Example Outputs
+**North-South Queue Length at Intersections and East-West Queue Length at Intersections**
 ![intersection](https://github.com/user-attachments/assets/54672671-2cd6-4bda-aa8f-01fb4a17d41c)
 
 ## Example waiting time output:
